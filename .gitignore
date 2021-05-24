@@ -1,0 +1,4 @@
+.DS_Store
+venv
+venv.nosync
+__pycache__
